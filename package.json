@@ -1,0 +1,17 @@
+{
+  "name": "need-2-speed",
+  "version": "1.0.0",
+  "description": "race game in es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "race"
+  ],
+  "author": "William Tang",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
